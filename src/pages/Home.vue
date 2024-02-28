@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <p class="class">
-    <p class="class__text">g;fsfdigkldf</p>
+    <p class="class__text">g;fsfdigklddsisfjhgjhgxjjhgf</p>
     <img src="../img/vue.svg" alt="">
   </p>
 </template>
