@@ -1,9 +1,8 @@
 <script setup>
-import Home from './components/Home.vue'
 </script>
 
 <template>
-  <Home msg="kdfhgkldfhgkl" />
+  <router-view></router-view>
 </template>
 
 <style scoped lang="scss">
