@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@formkit/auto-animate": "^0.8.1",
+    "axios": "^1.6.7",
+    "lodash.debounce": "^4.0.8",
+    "pinia": "^2.1.7",
     "primevue": "^3.49.1",
     "svgo": "^3.2.0",
     "unplugin-auto-import": "^0.17.5",
